@@ -1,11 +1,14 @@
 ###########################
-UBUNTU
+UBUNTU/Unix/OS
 ##########################
 
 Open new tab on terminal: Shift+Ctrl+T
 
 Close current tab on terminal: Shift+Ctrl+W
 
+Extract a tar file: `tar -xf YOUR_FILE_PATH HERE`
+'x' - execute
+'f' - file path
 ###########################
 Vim:
 ##########################
@@ -13,3 +16,7 @@ find and replace all occurunces of 'foo' with 'bar':
 
 first hit [Esc] key
 Type : (colon) followed by %s/foo/bar/ and hit [Enter] key
+
+#########################
+Git
+#########################
