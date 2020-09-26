@@ -1,0 +1,15 @@
+###########################
+UBUNTU
+##########################
+
+Open new tab on terminal: Shift+Ctrl+T
+
+Close current tab on terminal: Shift+Ctrl+W
+
+###########################
+Vim:
+##########################
+find and replace all occurunces of 'foo' with 'bar':
+
+first hit [Esc] key
+Type : (colon) followed by %s/foo/bar/ and hit [Enter] key
