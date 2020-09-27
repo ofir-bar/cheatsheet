@@ -20,3 +20,21 @@ Type : (colon) followed by %s/foo/bar/ and hit [Enter] key
 #########################
 Git
 #########################
+#
+#
+#
+#
+########################
+#tmux 
+########################
+
+attach, run in terminal: 'tmux attach -t NAME_HERE'
+detach, run in terminal: 'tmux detach'
+
+C- = Control and hold
+C-b = Control and hold, press b
+C-b :set synchronized-panes on = synchronize all panes so when you type in one it does the same in all the others!
+C-b arrow(left/right/top/bottom): move the focus to some pane
+C-b p: previous window
+C-b n: next window
+C-b [number]: go to window number [number]
